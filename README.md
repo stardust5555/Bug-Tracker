@@ -1,2 +1,7 @@
-# Bug-Tracker
-Bug Tracker to keep track of bugs in my projects. Creating this app to practice Typescript and Jest unit testing.
+# Bug Tracker!
+
+This is a bug tracker so that I can keep track of bugs throughout my projects.
+
+## Learning Points
+- Typescript
+- Jest unit testing
